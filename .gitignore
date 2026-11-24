@@ -1,0 +1,30 @@
+# Secrets and credentials
+.env
+.env.local
+credentials.json
+client_secret*.json
+token.json
+*.pem
+*.key
+.scan-denylist
+
+# Generated files and exports
+.tmp/
+*_rank_tracker_*.csv
+serp_*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

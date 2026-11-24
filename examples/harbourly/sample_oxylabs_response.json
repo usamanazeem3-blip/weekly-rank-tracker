@@ -1,0 +1,49 @@
+{
+  "state": "done",
+  "results": [
+    {
+      "json": {
+        "last_visible_page": 10,
+        "results": {
+          "paid": [
+            {
+              "pos": 1,
+              "url": "https://ads.adnetwork.example/",
+              "title": "Sponsored"
+            }
+          ],
+          "organic": [
+            {
+              "pos": 1,
+              "url": "https://www.dockdesk.example/",
+              "title": "DockDesk - Software for Boat Rentals",
+              "desc": "All-in-one software for boat rental fleets."
+            },
+            {
+              "pos": 2,
+              "url": "https://www.charterbase.example/rentals",
+              "title": "CharterBase for Rental Fleets",
+              "desc": "Online booking for rental fleets."
+            },
+            {
+              "pos": 3,
+              "url": "https://www.harbourly.example/software/",
+              "title": "Harbourly - Boat Rental Software",
+              "desc": "Bookings, waivers and payments for boat-hire businesses."
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "params": {
+    "query": "boat rental software",
+    "domain": "co.uk",
+    "location": "GB",
+    "locale": "en_GB",
+    "start_page": 1
+  },
+  "metadata": {
+    "request_id": "00000000-0000-0000-0000-000000000000"
+  }
+}
